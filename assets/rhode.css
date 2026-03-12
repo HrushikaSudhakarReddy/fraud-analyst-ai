@@ -1,0 +1,57 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600&display=swap');
+
+html, body, [class*="css"]  {
+    font-family: 'Inter', sans-serif;
+}
+
+.stApp {
+    background: #f7f3ee;
+    color: #1c1a17;
+}
+
+.block-container {
+    max-width: 1080px;
+    padding-top: 2rem;
+    padding-bottom: 3rem;
+}
+
+.hero {
+    padding: 1.5rem 1.6rem;
+    border: 1px solid rgba(28,26,23,0.08);
+    border-radius: 24px;
+    background: rgba(255,255,255,0.55);
+    backdrop-filter: blur(3px);
+    margin-bottom: 1rem;
+}
+
+.hero-title {
+    font-size: 2rem;
+    font-weight: 600;
+    letter-spacing: -0.04em;
+    margin-bottom: 0.25rem;
+}
+
+.hero-subtitle {
+    color: rgba(28,26,23,0.76);
+    line-height: 1.6;
+    font-size: 0.98rem;
+}
+
+.soft-card {
+    padding: 1rem 1.1rem;
+    border: 1px solid rgba(28,26,23,0.08);
+    border-radius: 22px;
+    background: rgba(255,255,255,0.68);
+}
+
+.section-label {
+    text-transform: uppercase;
+    letter-spacing: 0.16em;
+    font-size: 0.74rem;
+    color: rgba(28,26,23,0.54);
+    margin-bottom: 0.5rem;
+}
+
+.muted {
+    color: rgba(28,26,23,0.68);
+}

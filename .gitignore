@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+.env
+
+# Mac
+.DS_Store
+
+# Data files
+data/*.csv
+data/*.sqlite
+data/*.db
+
+# Streamlit cache
+.streamlit/
+
+# Logs
+*.log
