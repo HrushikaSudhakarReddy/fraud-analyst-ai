@@ -6,9 +6,9 @@ Instead of manually writing queries for every investigation, the application all
 
 ---
 ## Demo
-assets/1.png
+![Ask the Analyst](assets/1.png)
 
-assets/2.png
+![Fraud Analysis Result](assets/2.png)
 
 ![Generated SQL](assets/3.png)
 
