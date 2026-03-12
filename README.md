@@ -1,4 +1,4 @@
-# Fraud Analyst — SQL-Powered Investigation Assistant
+# Fraud Analyst: SQL-Powered Investigation Assistant
 
 This project explores how a fraud analyst might investigate suspicious transaction patterns using a combination of **structured SQL queries** and a lightweight **agentic interface**.
 
@@ -205,3 +205,6 @@ The investigation workflow is built around SQL queries that:
 ### Agentic interfaces for analytics
 
 The project explores how natural language interfaces can sit on top of structured analytical systems, allowing users to query data more interactively while maintaining SQL transparency.
+
+
+
