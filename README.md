@@ -5,6 +5,16 @@ This project explores how a fraud analyst might investigate suspicious transacti
 Instead of manually writing queries for every investigation, the application allows a user to ask questions in natural language. The system translates those questions into SQL, executes them against a real financial transaction dataset, and returns the results along with the generated query.
 
 ---
+## Demo
+![Ask the Analyst](assets/1.png)
+
+![Fraud Analysis Result](assets/2.png)
+
+![Generated SQL](assets/3.png)
+
+![Investigation Dashboard](assets/4.png)
+
+---
 
 ## Dataset
 
